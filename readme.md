@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/chillyboy07/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="Beck" width="180" height="170">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Chilly's Guitar Collection</h3>
